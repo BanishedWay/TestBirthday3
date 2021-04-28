@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">罗老师，生日快乐</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="third_fragment_label">Third Fragment</string>
+    <string name="forth_fragment_label">Forth Fragment</string>
+    <string name="fifth_fragment_label">Final Fragment</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="next_first_fragment">Start</string>
+    <string name="first_fragment">谨以此作品献给罗老师，为罗老师的生日送上祝福</string>
+    <string name="second_fragment_text1">2014年，第一次与你相遇</string>
+    <string name="second_fragment_text2">忘不掉教室后排与你谈笑的过往</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="third_fragment_text1">时光荏苒，你的笑容犹在我眼前回荡</string>
+    <string name="third_fragment_text2">感情的种子也在不知不觉间生根发芽</string>
+    <string name="forth_fragment_text1">时间来到今天，2月21日午夜，夜深了，我内心的冲动却依旧无法平息，最终决定向你表白</string>
+    <string name="forth_fragment_text2">答应我的那一刻，我的世界仿佛有了颜色</string>
+    <string name="final_fragment_text">祝愿可爱的罗老师生日快乐，接下来的每一天都能充满笑容。</string>
+
+</resources>
